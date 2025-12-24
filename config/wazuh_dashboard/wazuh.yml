@@ -1,0 +1,10 @@
+hosts:
+  - 1513629884013:
+      url: "https://wazuh.manager"
+      port: 55000
+      username: wazuh-wui
+      password: "MyS3cr37P450r.*-"
+      run_as: false
+enrollment.dns: "local"
+customization.reports.footer: "© Aabhyasa Technology Pvt. Ltd."
+customization.reports.header: "Made by security team"
